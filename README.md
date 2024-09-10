@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate junior backend developer from Argentina👨‍💻, dedicated to crafting efficient and scalable backend systems🖥️. With a solid foundation in Python, MySQL, and AWS☁️, I specialize in designing and implementing robust solutions that meet complex business needs. My enthusiasm for technology drives me to stay updated with the latest trends and best practices, ensuring that I can deliver high-quality results. I am eager to contribute to innovative projects and collaborate with teams to build impactful software solutions.
+I am junior backend developer from Argentina👨‍💻, dedicated to crafting efficient and scalable backend systems🖥️. With a solid foundation in Python, MySQL, and AWS☁️, I specialize in designing and implementing robust solutions that meet complex business needs. My enthusiasm for technology drives me to stay updated with the latest trends and best practices, ensuring that I can deliver high-quality results. I am eager to contribute to innovative projects and collaborate with teams to build impactful software solutions.
 
 
 ## 🌐 Socials:
